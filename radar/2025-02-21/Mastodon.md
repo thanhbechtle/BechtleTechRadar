@@ -1,6 +1,6 @@
 ---
 title: "Mastodon"
-ring: adopt
+ring: handeln
 quadrant: sozial
 tags: [Community, Digitale Souveränität, Open Source]
 ---

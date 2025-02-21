@@ -1,6 +1,6 @@
 ---
 title: "OpenCorporates"
-ring: trial
+ring: testen
 quadrant: politik
 tags: [Open Source, Regulierung, KI und Data]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Terraform"
-ring: adopt
+ring: handeln
 quadrant: technologie
 tags: [DevOps, Cloud und Infrastruktur, Open Source]
 ---

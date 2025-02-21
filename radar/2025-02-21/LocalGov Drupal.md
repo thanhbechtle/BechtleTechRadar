@@ -1,6 +1,6 @@
 ---
 title: "LocalGov Drupal"
-ring: adopt
+ring: handeln
 quadrant: politik
 tags: [Open Source, Kollaboration, Digitale Souveränität]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Digital Public Goods Alliance"
-ring: adopt
+ring: handeln
 quadrant: politik
 tags: [Open Source, Digitale Souveränität, Inklusion und Diversität]
 ---

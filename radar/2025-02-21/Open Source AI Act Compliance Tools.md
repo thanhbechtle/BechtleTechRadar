@@ -1,6 +1,6 @@
 ---
 title: "Open Source AI Act Compliance Tools"
-ring: assess
+ring: bewerten
 quadrant: politik
 tags: [Regulierung, KI und Data, Open Source]
 ---

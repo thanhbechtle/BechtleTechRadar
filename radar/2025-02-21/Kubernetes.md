@@ -1,6 +1,6 @@
 ---
 title: "Kubernetes"
-ring: adopt
+ring: handeln
 quadrant: technologie
 tags: [Cloud und Infrastruktur, DevOps, Open Source]
 ---

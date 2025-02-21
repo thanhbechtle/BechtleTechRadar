@@ -1,6 +1,6 @@
 ---
 title: "Gitpod"
-ring: trial
+ring: testen
 quadrant: technologie
 tags: [DevOps, Cloud und Infrastruktur, Open Source]
 ---

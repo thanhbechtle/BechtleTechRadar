@@ -1,6 +1,6 @@
 ---
 title: "Hugging Face"
-ring: trial
+ring: testen
 quadrant: technologie
 tags: [KI und Data, Open Source, Kollaboration]
 ---

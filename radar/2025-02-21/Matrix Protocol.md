@@ -1,6 +1,6 @@
 ---
 title: "Matrix Protocol"
-ring: adopt
+ring: handeln
 quadrant: technologie
 tags: [Datenschutz und Sicherheit, Open Source, Digitale Souveränität]
 ---

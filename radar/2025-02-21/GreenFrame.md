@@ -1,6 +1,6 @@
 ---
 title: "GreenFrame"
-ring: assess
+ring: bewerten
 quadrant: environment
 tags: [Nachhaltigkeit, Web und API, Open Source]
 ---

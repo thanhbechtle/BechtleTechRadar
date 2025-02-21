@@ -1,6 +1,6 @@
 ---
 title: "Chayn"
-ring: trial
+ring: testen
 quadrant: sozial
 tags: [Inklusion und Diversität, Community, Open Source]
 ---

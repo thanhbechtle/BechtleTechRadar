@@ -1,6 +1,6 @@
 ---
 title: "CirclesUBI"
-ring: assess
+ring: bewerten
 quadrant: sozial
 tags: [Innovation, Community, Open Source]
 ---

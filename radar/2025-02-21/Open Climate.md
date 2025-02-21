@@ -1,6 +1,6 @@
 ---
 title: "Open Climate"
-ring: trial
+ring: testen
 quadrant: environment
 tags: [Nachhaltigkeit, Open Source, KI und Data]
 ---

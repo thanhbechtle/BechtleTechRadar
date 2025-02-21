@@ -1,6 +1,6 @@
 ---
 title: "Nextcloud"
-ring: adopt
+ring: handeln
 quadrant: technologie
 tags: [Cloud und Infrastruktur, Digitale Souveränität, Open Source]
 ---

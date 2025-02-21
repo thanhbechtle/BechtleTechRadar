@@ -1,6 +1,6 @@
 ---
 title: "Open Knowledge Commons"
-ring: assess
+ring: bewerten
 quadrant: sozial
 tags: [Community, Kollaboration, Open Source]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Solid Project"
-ring: assess
+ring: bewerten
 quadrant: sozial
 tags: [Datenschutz und Sicherheit, Digitale Souveränität, Open Source]
 ---

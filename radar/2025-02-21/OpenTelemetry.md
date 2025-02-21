@@ -1,6 +1,6 @@
 ---
 title: "OpenTelemetry"
-ring: adopt
+ring: handeln
 quadrant: technologie
 tags: [DevOps, Open Source, Cloud und Infrastruktur]
 ---

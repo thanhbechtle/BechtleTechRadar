@@ -1,6 +1,6 @@
 ---
 title: "OpenAI Whisper"
-ring: trial
+ring: testen
 quadrant: technologie
 tags: [KI und Data, Open Source]
 ---

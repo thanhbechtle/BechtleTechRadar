@@ -1,6 +1,6 @@
 ---
 title: "EcoGrader"
-ring: trial
+ring: testen
 quadrant: environment
 tags: [Nachhaltigkeit, Web und API, Open Source]
 ---

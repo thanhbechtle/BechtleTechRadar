@@ -1,6 +1,6 @@
 ---
 title: "GraphQL"
-ring: adopt
+ring: handeln
 quadrant: technologie
 tags: [Web und API, DevOps, Open Source]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Common Voice"
-ring: trial
+ring: testen
 quadrant: sozial
 tags: [Open Source, Inklusion und Diversität, KI und Data]
 ---

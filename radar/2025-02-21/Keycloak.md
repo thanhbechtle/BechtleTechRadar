@@ -1,6 +1,6 @@
 ---
 title: "Keycloak"
-ring: adopt
+ring: handeln
 quadrant: technologie
 tags: [Digitale Souveränität, Datenschutz und Sicherheit, Open Source]
 ---
