@@ -53,7 +53,7 @@
       "title": "Handeln",
       "description": "",
       "color": "#588157",
-      "radius": 0.5,
+      "radius": 0.38,
       "strokeWidth": 5
     },
     {
@@ -61,7 +61,7 @@
       "title": "Testen",
       "description": "",
       "color": "#457b9d",
-      "radius": 0.69,
+      "radius": 0.55,
       "strokeWidth": 3
     },
     {
@@ -69,7 +69,7 @@
       "title": "Bewerten",
       "description": "",
       "color": "#bc6c25",
-      "radius": 0.85,
+      "radius": 0.75,
       "strokeWidth": 2
     },
     {
