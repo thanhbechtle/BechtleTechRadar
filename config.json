@@ -23,26 +23,26 @@
   },
   "quadrants": [
     {
-      "id": "technologie",
-      "title": "Technologie",
+      "id": "arbeitsplatz",
+      "title": "Open Source Software Arbeitsplatz",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "color": "#a3b18a"
     },
     {
-      "id": "politik",
-      "title": "Politik",
+      "id": "betrieb",
+      "title": "Open Source Software IT-Infrastruktur & Betrieb",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "color": "#588157"
     },
     {
-      "id": "environment",
-      "title": "Environment",
+      "id": "akteure",
+      "title": "Akteure, Communities und Ökosystem",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "color": "#3f633e"
     },
     {
-      "id": "sozial",
-      "title": "Sozial",
+      "id": "platzhalter",
+      "title": "Platzhalter",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "color": "#40713f"
     }
@@ -114,7 +114,7 @@
   ],
   "imprint": "https://www.bechtle.com/impressum",
   "labels": {
-    "title": "Technology Radar",
+    "title": "Trendbarometer",
     "imprint": "Legal Information",
     "quadrant": "Quadrant",
     "quadrantOverview": "Quadrant Overview",
