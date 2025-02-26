@@ -1,7 +1,7 @@
 ---
 title: "Cryptpad"
 ring: testen
-quadrant: platzhalter
+quadrant: betrieb
 tags: [Datenschutz und Sicherheit, Kollaboration, Open Source]
 ---
 
