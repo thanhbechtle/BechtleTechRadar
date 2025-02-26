@@ -77,7 +77,7 @@
       "title": "Beobachten",
       "description": "",
       "color": "#d62828",
-      "radius": 1,
+      "radius": 0.95,
       "strokeWidth": 0.75
     }
   ],
