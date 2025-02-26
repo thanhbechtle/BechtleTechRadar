@@ -5,4 +5,4 @@ quadrant: arbeitsplatz
 tags: [Open Source, Digitale Souveränität, Kollaboration]
 ---
 
-Open-Source-Projekt zur einheitlichen Erfassung von Telemetriedaten (Metriken, Logs, Traces) für verschiedene Services.
+Umfassende, ausgereifte Open-Source-Office-Suite mit Textverarbeitung, Tabellenkalkulation, Präsentation und weiteren Anwendungen als Alternative zu proprietären Office-Lösungen.

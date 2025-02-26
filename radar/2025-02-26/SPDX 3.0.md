@@ -1,7 +1,7 @@
 ---
 title: "SPDX 3.0"
 ring: testen
-quadrant: platzhalter
+quadrant: gesetze
 tags: [Open Source, Datenschutz und Sicherheit, Regulierung]
 ---
 

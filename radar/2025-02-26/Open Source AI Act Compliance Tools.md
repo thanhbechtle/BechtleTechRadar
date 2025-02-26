@@ -1,7 +1,7 @@
 ---
 title: "Open Source AI Act Compliance Tools"
 ring: bewerten
-quadrant: platzhalter
+quadrant: gesetze
 tags: [Regulierung, KI und Data, Open Source]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Reuse Specification"
 ring: testen
-quadrant: platzhalter
+quadrant: gesetze
 tags: [Open Source, Regulierung, DevOps]
 ---
 
