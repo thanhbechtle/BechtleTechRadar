@@ -1,6 +1,6 @@
 ---
 title: "Common Voice"
-ring: testen
+ring: Evaluieren
 quadrant: sozial
 tags: [Open Source, Inklusion und Diversität, KI und Data]
 ---

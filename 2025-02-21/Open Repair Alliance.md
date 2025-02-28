@@ -1,6 +1,6 @@
 ---
 title: "Open Repair Alliance"
-ring: bewerten
+ring: Erkunden
 quadrant: environment
 tags: [Circular Economy, Nachhaltigkeit, Open Source]
 ---

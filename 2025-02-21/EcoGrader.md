@@ -1,6 +1,6 @@
 ---
 title: "EcoGrader"
-ring: testen
+ring: Evaluieren
 quadrant: environment
 tags: [Nachhaltigkeit, Web und API, Open Source]
 ---

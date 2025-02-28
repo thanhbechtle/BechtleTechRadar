@@ -1,6 +1,6 @@
 ---
 title: "Arduino Portenta"
-ring: bewerten
+ring: Erkunden
 quadrant: platzhalter
 tags: [Open Source, Innovation, KI und Data]
 ---

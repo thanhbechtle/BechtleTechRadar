@@ -1,6 +1,6 @@
 ---
 title: "Green Software Foundation"
-ring: testen
+ring: Evaluieren
 quadrant: environment
 tags: [Nachhaltigkeit, Open Source, Community]
 ---

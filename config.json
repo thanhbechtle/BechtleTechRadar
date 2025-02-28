@@ -43,7 +43,7 @@
     {
       "id": "gesetze",
       "title": "Gesetze, Regularien und Vorschriften",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "description": "Aktueller Überblick über gesetzliche und regulatorische Entwicklungen in der EU im OSS-Bereich.",
       "color": "#40713f"
     }
   ],
@@ -57,24 +57,24 @@
       "strokeWidth": 5
     },
     {
-      "id": "testen",
-      "title": "Testen",
+      "id": "Evaluieren",
+      "title": "Evaluieren",
       "description": "",
       "color": "#457b9d",
       "radius": 0.55,
       "strokeWidth": 3
     },
     {
-      "id": "bewerten",
-      "title": "Bewerten",
+      "id": "Beobachten",
+      "title": "Beobachten",
       "description": "",
       "color": "#bc6c25",
       "radius": 0.75,
       "strokeWidth": 2
     },
     {
-      "id": "beobachten",
-      "title": "Beobachten",
+      "id": "Erkunden",
+      "title": "Erkunden",
       "description": "",
       "color": "#d62828",
       "radius": 0.98,

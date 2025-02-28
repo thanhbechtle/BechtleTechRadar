@@ -1,6 +1,6 @@
 ---
 title: "Gitpod"
-ring: testen
+ring: Evaluieren
 quadrant: technologie
 tags: [DevOps, Cloud und Infrastruktur, Open Source]
 ---

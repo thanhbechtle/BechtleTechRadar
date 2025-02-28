@@ -1,6 +1,6 @@
 ---
 title: "CirclesUBI"
-ring: bewerten
+ring: Erkunden
 quadrant: akteure
 tags: [Innovation, Community, Open Source]
 ---

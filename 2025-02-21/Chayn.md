@@ -1,6 +1,6 @@
 ---
 title: "Chayn"
-ring: testen
+ring: Evaluieren
 quadrant: sozial
 tags: [Inklusion und Diversität, Community, Open Source]
 ---

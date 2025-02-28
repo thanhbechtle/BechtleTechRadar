@@ -1,6 +1,6 @@
 ---
 title: "CII Best Practices Badge Program"
-ring: bewerten
+ring: Erkunden
 quadrant: gesetze
 tags: [Open Source, Datenschutz und Sicherheit, Regulierung]
 ---

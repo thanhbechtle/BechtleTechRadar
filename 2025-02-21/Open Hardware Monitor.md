@@ -1,6 +1,6 @@
 ---
 title: "Open Hardware Monitor"
-ring: bewerten
+ring: Erkunden
 quadrant: platzhalter
 tags: [Open Source, Cloud und Infrastruktur, Nachhaltigkeit]
 ---

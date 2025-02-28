@@ -1,6 +1,6 @@
 ---
 title: "Open Source Security Foundation"
-ring: testen
+ring: Evaluieren
 quadrant: gesetze
 tags: [Open Source, Datenschutz und Sicherheit, Regulierung]
 ---

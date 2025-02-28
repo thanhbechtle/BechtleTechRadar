@@ -1,6 +1,6 @@
 ---
 title: "OpenCorporates"
-ring: testen
+ring: Evaluieren
 quadrant: politik
 tags: [Open Source, Regulierung, KI und Data]
 ---

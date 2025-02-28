@@ -1,6 +1,6 @@
 ---
 title: "OpenAI Whisper"
-ring: testen
+ring: Evaluieren
 quadrant: arbeitsplatz
 tags: [KI und Data, Open Source]
 ---

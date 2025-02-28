@@ -1,6 +1,6 @@
 ---
 title: "iFixit Open Repair"
-ring: testen
+ring: Evaluieren
 quadrant: environment
 tags: [Circular Economy, Nachhaltigkeit, Open Source]
 ---

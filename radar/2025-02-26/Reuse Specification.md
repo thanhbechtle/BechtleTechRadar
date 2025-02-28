@@ -1,6 +1,6 @@
 ---
 title: "Reuse Specification"
-ring: testen
+ring: Evaluieren
 quadrant: gesetze
 tags: [Open Source, Regulierung, DevOps]
 ---

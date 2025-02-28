@@ -1,6 +1,6 @@
 ---
 title: "Hugging Face"
-ring: testen
+ring: Evaluieren
 quadrant: akteure
 tags: [KI und Data, Open Source, Kollaboration]
 ---

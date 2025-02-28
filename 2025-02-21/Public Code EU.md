@@ -1,6 +1,6 @@
 ---
 title: "Public Code EU"
-ring: bewerten
+ring: Erkunden
 quadrant: politik
 tags: [Digitale Souveränität, Open Source, Regulierung]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "DSGVO-Compliance für OSS"
-ring: bewerten
+ring: Erkunden
 quadrant: gesetze
 tags: [Datenschutz und Sicherheit, Digitale Souveränität, Open Source]
 ---

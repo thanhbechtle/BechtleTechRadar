@@ -1,6 +1,6 @@
 ---
 title: "RISC-V"
-ring: testen
+ring: Evaluieren
 quadrant: platzhalter
 tags: [Open Source, Innovation, Cloud und Infrastruktur]
 ---

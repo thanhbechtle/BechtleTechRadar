@@ -1,6 +1,6 @@
 ---
 title: "Raspberry Pi 5"
-ring: testen
+ring: Evaluieren
 quadrant: platzhalter
 tags: [Open Source, Digitale Bildung, Innovation]
 ---

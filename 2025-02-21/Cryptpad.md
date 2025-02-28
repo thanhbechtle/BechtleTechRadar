@@ -1,6 +1,6 @@
 ---
 title: "Cryptpad"
-ring: testen
+ring: Evaluieren
 quadrant: technologie
 tags: [Datenschutz und Sicherheit, Kollaboration, Open Source]
 ---

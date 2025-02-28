@@ -1,6 +1,6 @@
 ---
 title: "Backstage"
-ring: testen
+ring: Evaluieren
 quadrant: betrieb
 tags: [DevOps, Cloud und Infrastruktur, Open Source]
 ---

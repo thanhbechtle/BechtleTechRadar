@@ -1,6 +1,6 @@
 ---
 title: "Solid Project"
-ring: bewerten
+ring: Erkunden
 quadrant: akteure
 tags: [Datenschutz und Sicherheit, Digitale Souveränität, Open Source]
 ---

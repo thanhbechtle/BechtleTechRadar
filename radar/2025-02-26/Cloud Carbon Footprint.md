@@ -1,6 +1,6 @@
 ---
 title: "Cloud Carbon Footprint"
-ring: testen
+ring: Evaluieren
 quadrant: betrieb
 tags: [Nachhaltigkeit, Open Source, Cloud und Infrastruktur]
 ---

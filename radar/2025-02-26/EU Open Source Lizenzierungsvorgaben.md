@@ -1,6 +1,6 @@
 ---
 title: "EU Open Source Lizenzierungsvorgaben"
-ring: testen
+ring: Evaluieren
 quadrant: gesetze
 tags: [Open Source, Regulierung, Digitale Souveränität]
 ---
