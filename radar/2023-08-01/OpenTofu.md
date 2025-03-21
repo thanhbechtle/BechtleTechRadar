@@ -1,6 +1,6 @@
 ---
 title: "OpenTofu"
-ring: handeln
+ring: beobachten
 quadrant: betrieb
 tags: [DevOps, Cloud und Infrastruktur, Open Source]
 ---
