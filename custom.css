@@ -1,2 +1,23 @@
 /* Use this file to optionally override global css styles and use with caution. */
 /* See README.md for hints and examples: https://github.com/AOEpeople/aoe_technology_radar/ */
+
+.Logo_logo__c5nVK.Logo_small__JDg_A .Logo_src__xX_cm {
+  width: 100px;
+}
+
+.Logo_subline__E9VoF {
+  top: 2px;
+}
+
+.Chart_ringLabels__nHfV9 {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.SocialLinks_link__Y7mGD:hover {
+  background-color: #2ffb95;
+}
+
+.Navigation_label__QlTT7:hover {
+  text-decoration: underline;
+}
