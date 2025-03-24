@@ -21,3 +21,16 @@
 .Navigation_label__QlTT7:hover {
   text-decoration: underline;
 }
+
+@media screen and (min-width: 1200px) {
+  .Layout_layout__fvRCC.Layout_default__M3545 .Layout_content__PrPCk {
+    padding: 0;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .Layout_container__BVtmP {
+    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
