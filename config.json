@@ -13,7 +13,7 @@
   "sections": ["radar", "tags", "list"],
   "colors": {
     "foreground": "#ffffff",
-    "background": "#064029",
+    "background": "#075033",
     "highlight": "#2FFB95",
     "content": "#fff",
     "text": "#575757",
@@ -26,25 +26,25 @@
       "id": "arbeitsplatz",
       "title": "Open Source Software Arbeitsplatz",
       "description": "Lösungen und Produkte, die Anwendungen im Arbeitsplatzumfeld betreffen, z.B. Groupware, Filesharing und Collaboration.",
-      "color": "#73FCB8"
+      "color": "#82FDBF"
     },
     {
       "id": "betrieb",
       "title": "Open Source Software IT-Infrastruktur & Betrieb",
       "description": "Open Source-Lösungen die Infrastruktur und Betrieb betreffen, z.B. Lösungen im Cloud Service, Logging oder Monitoring.",
-      "color": "#2FFB95"
+      "color": "#59FCAA"
     },
     {
       "id": "akteure",
       "title": "Akteure, Communities und Ökosystem",
       "description": "Führende große Open Source Unternehmen und Neugründungen von Start-Ups, Bewertungen der jeweiligen Geschäftsmodelle und Änderungen, sowie neue Phänomene.",
-      "color": "#05F07A"
+      "color": "#26C977"
     },
     {
       "id": "gesetze",
       "title": "Gesetze, Regularien und Vorschriften",
       "description": "Aktueller Überblick über gesetzliche und regulatorische Entwicklungen in der EU im OSS-Bereich.",
-      "color": "#04B45C"
+      "color": "#2AE286"
     }
   ],
   "rings": [
