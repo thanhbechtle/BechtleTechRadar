@@ -1,0 +1,27 @@
+resource "github_repository_file" "deploy_workflow" {
+  repository          = github_repository.techradar.name
+  file               = ".github/workflows/deploy.yml"
+  content            = <<EOT
+name: Deploy Azure Static Web Apps
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: \${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+          repo_token: \${{ secrets.GITHUB_TOKEN }}
+          action: \"upload\"
+          app_location: \"/build\"
+          api_location: \"\"
+          output_location: \"\"
+EOT
+  commit_message      = "Add GitHub Action for Azure Static Web App Deployment"
+  overwrite_on_create = true
+}
