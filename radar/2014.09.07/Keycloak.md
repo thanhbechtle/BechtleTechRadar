@@ -2,7 +2,7 @@
 title: "Keycloak"
 ring: handeln
 quadrant: betrieb
-tags: [Green-Logistics , Künstliche Intelligenz , Open Source]
+tags: [Green-Logistics , Künstliche Intelligenz ]
 ---
 
 Open-Source-Identitäts- und Zugriffsmanagement-System, das sichere Authentifizierung und Autorisierung ermöglicht.

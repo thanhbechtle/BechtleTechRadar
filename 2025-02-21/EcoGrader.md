@@ -2,7 +2,7 @@
 title: "EcoGrader"
 ring: Evaluieren
 quadrant: environment
-tags: [Nachhaltigkeit, Web und API, Open Source]
+tags: []
 ---
 
 Open-Source-Tool zur Analyse und Verbesserung der Umweltauswirkungen von Websites und digitalen Diensten.

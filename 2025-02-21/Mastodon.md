@@ -2,7 +2,7 @@
 title: "Mastodon"
 ring: handeln
 quadrant: sozial
-tags: [Chat-Bot, Green-Logistics , Open Source]
+tags: [Chat-Bot, Green-Logistics ]
 ---
 
 Dezentrales, föderiertes soziales Netzwerk als Open-Source-Alternative zu zentralisierten kommerziellen Plattformen.

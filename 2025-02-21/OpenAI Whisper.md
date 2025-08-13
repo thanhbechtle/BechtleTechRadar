@@ -2,7 +2,7 @@
 title: "OpenAI Whisper"
 ring: Evaluieren
 quadrant: technologie
-tags: [Client-Management, Open Source]
+tags: [Client-Management]
 ---
 
 Open-Source Speech-to-Text-System mit hoher Genauigkeit und Unterstützung für zahlreiche Sprachen.
