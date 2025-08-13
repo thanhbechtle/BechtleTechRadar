@@ -25,25 +25,25 @@
     {
       "id": "arbeitsplatz",
       "title": "Toolgetriebene Innovation, nach Abschluss der Einführung von ServiceNOW",
-      "description": "-",
+      "description": "Eingesetzte Tools ermöglichen eine Weiterentwicklung und Optimierung des Services",
       "color": "#82FDBF"
     },
     {
       "id": "betrieb",
       "title": "Prozessinnovationen",
-      "description": "-",
+      "description": "Trends und Phänomene, welche positiv auf Prozesse im Managed Services einwirken",
       "color": "#59FCAA"
     },
     {
       "id": "akteure",
       "title": "Technologieeinsatz",
-      "description": "-",
+      "description": "Neue Technologien am Markt ermöglichen Innovationen in der Managed Service Leistungserbringung",
       "color": "#26C977"
     },
     {
       "id": "gesetze",
       "title": "Nachhaltigkeit",
-      "description": "-",
+      "description": "Trends, welche auf die Optimierung und Weiterentwicklung der Nachhaltigkeitsaspekte einzahlen",
       "color": "#2AE286"
     }
   ],
