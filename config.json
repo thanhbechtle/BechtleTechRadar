@@ -24,7 +24,7 @@
   "quadrants": [
     {
       "id": "arbeitsplatz",
-      "title": "Toolgetriebene Innovation, nach Abschluss der Einführung von ServiceNOW",
+      "title": "Toolgetriebene Innovation",
       "description": "Eingesetzte Tools ermöglichen eine Weiterentwicklung und Optimierung des Services",
       "color": "#82FDBF"
     },
@@ -36,13 +36,13 @@
     },
     {
       "id": "akteure",
-      "title": "Technologieeinsatz",
+      "title": "Technologiegetriebene Innovation",
       "description": "Neue Technologien am Markt ermöglichen Innovationen in der Managed Service Leistungserbringung",
       "color": "#26C977"
     },
     {
       "id": "gesetze",
-      "title": "Nachhaltigkeit",
+      "title": "Innovation 'Nachhaltigkeit'",
       "description": "Trends, welche auf die Optimierung und Weiterentwicklung der Nachhaltigkeitsaspekte einzahlen",
       "color": "#2AE286"
     }
