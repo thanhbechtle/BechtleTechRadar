@@ -2,7 +2,7 @@
 title: "Raspberry Pi 5"
 ring: Evaluieren
 quadrant: platzhalter
-tags: [Open Source, Digitale Bildung, Innovation]
+tags: [Open Source, Digitale Bildung, CO₂-Monitoring]
 ---
 
 Leistungsstarker Single-Board-Computer mit Open-Source-Hardware-Design und umfangreichen Erweiterungsmöglichkeiten für Bildung und IoT-Projekte.

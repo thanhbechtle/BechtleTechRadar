@@ -2,7 +2,7 @@
 title: "OpenTelemetry"
 ring: handeln
 quadrant: betrieb
-tags: [DevOps, Open Source, Cloud und Infrastruktur]
+tags: [Operational Excellence , Open Source, Field Services]
 ---
 
 Open-Source-Projekt zur einheitlichen Erfassung von Telemetriedaten (Metriken, Logs, Traces) für verschiedene Services.

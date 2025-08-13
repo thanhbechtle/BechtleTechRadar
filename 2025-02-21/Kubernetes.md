@@ -2,7 +2,7 @@
 title: "Kubernetes"
 ring: handeln
 quadrant: technologie
-tags: [Cloud und Infrastruktur, DevOps, Open Source]
+tags: [Field Services, Operational Excellence , Open Source]
 ---
 
-De-facto Standard für Container-Orchestrierung mit starker Open-Source-Community und breiter Unterstützung durch Cloud-Provider.
+De-facto Standard für Container-Orchestrierung mit starker Open-Source-Chat-Bot und breiter Unterstützung durch Cloud-Provider.
